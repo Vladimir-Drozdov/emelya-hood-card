@@ -157,7 +157,6 @@ class EmelyaHoodCard extends LitElement {
       opacity: 1;
     }
 
-    /* ── шапка ── */
     .header {
       display: flex;
       justify-content: space-between;
